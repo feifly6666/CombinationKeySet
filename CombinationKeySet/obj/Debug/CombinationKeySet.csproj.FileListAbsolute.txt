@@ -1,0 +1,8 @@
+e:\Visual Studio 2008\Projects\CombinationKeySet\CombinationKeySet\obj\Debug\ResolveAssemblyReference.cache
+e:\Visual Studio 2008\Projects\CombinationKeySet\CombinationKeySet\obj\Debug\CombinationKeySet.Form1.resources
+e:\Visual Studio 2008\Projects\CombinationKeySet\CombinationKeySet\obj\Debug\CombinationKeySet.Properties.Resources.resources
+e:\Visual Studio 2008\Projects\CombinationKeySet\CombinationKeySet\obj\Debug\CombinationKeySet.csproj.GenerateResource.Cache
+e:\Visual Studio 2008\Projects\CombinationKeySet\CombinationKeySet\bin\Debug\CombinationKeySet.exe
+e:\Visual Studio 2008\Projects\CombinationKeySet\CombinationKeySet\bin\Debug\CombinationKeySet.pdb
+e:\Visual Studio 2008\Projects\CombinationKeySet\CombinationKeySet\obj\Debug\CombinationKeySet.exe
+e:\Visual Studio 2008\Projects\CombinationKeySet\CombinationKeySet\obj\Debug\CombinationKeySet.pdb
